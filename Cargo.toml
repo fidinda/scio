@@ -1,0 +1,12 @@
+[package]
+name = "scio"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sergiy Protsiv <sergiy@protsiv.net>"]
+description = "A resilient distributed repository for knowledge"
+readme = "README.md"
+repository = "https://github.com/fidinda/scio"
+license = "MIT OR Apache-2.0"
+keywords = ["networking", "storage"]
+
+[dependencies]
